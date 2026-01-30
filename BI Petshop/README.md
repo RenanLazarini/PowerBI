@@ -1,0 +1,1 @@
+Dashboard Criado em um curso profissionalizante disponibilizado pela empresa enquanto era Estagiário (na época já possuia certificação em Power BI). Esse dasboard trás Insights sobre vendas em um Petshop, trazendo também um visual geográfico que mostra quais lojas estão com maior volume de vendas.
