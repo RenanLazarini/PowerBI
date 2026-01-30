@@ -1,0 +1,1 @@
+Relatório Analítico de Vendas: Uma análise profunda sobre lucratividade, impacto de descontos e performance de categorias, desenvolvida para extrair insights estratégicos de sobre vendas. É utilizado para este dashboard uma base pública, e código de tratamento da base em Python está no repositório Python.
