@@ -1,0 +1,1 @@
+Dashboard dinâmico de Customer Experience (CX) desenvolvido para transformar feedbacks de clientes em decisões estratégicas e melhoria contínua de produtos. Base criada em Python (Código no repositório Python) com datas de Janeiro a Dezembro de 2023.
